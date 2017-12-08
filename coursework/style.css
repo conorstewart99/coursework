@@ -1,0 +1,102 @@
+.container{
+  width: 85%;
+  margin: 0 auto;
+  color: white;
+  font-size: 25px;
+  font-family: Arial;
+}
+
+html{
+  background-color: #e8e8e8;
+}
+
+.top{
+  background: black;
+  height: 200px;
+}
+
+
+
+.logo{
+  float: left;
+}
+
+nav{
+  float: right;
+  background-color: black;
+  height: 100px;
+  padding-top: 80px;
+
+
+}
+
+
+nav li{
+  float: left;
+  list-style: none;
+  margin-left: 30px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color: #7a7a7a;
+}
+
+
+h1{
+  font-size: 60px;
+  font-family: Beatnik SF;
+  background-color: #7a7a7a;
+  color: white;
+  padding-left: 250px;
+}
+
+h2{
+  font-size: 30px;
+  font-family: Beatnik SF;
+  background-color: #7a7a7a;
+  color: white;
+  padding-left: 350px;
+}
+
+h3{
+  background-color: white;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: Arial;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+
+p{
+  background-color: white;
+  font-size: 20px;
+  font-family: Arial;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+main ul{
+  background-color: white;
+  font-size: 20px;
+  font-family: Arial;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
